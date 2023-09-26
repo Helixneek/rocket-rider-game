@@ -16,6 +16,7 @@ public class RocketObject : MonoBehaviour
         {
             Debug.Log("Get destroyed");
             // Play particle effects
+            CreateExplosion(transform.position);
 
             // Apply force to surrounding rigidbodies
             PushObjectsInRadius(transform.position);
