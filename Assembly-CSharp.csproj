@@ -70,7 +70,6 @@
     <Compile Include="Assets\LeanTween\Examples\Scripts\TestingZLegacy.cs" />
     <Compile Include="Assets\LeanTween\Examples\Scripts\LogoCinematic.cs" />
     <Compile Include="Assets\LeanTween\Examples\Scripts\GeneralAdvancedTechniques.cs" />
-    <Compile Include="Assets\Movement.cs" />
     <Compile Include="Assets\Scripts\Hazard\killerPillar.cs" />
     <Compile Include="Assets\LeanTween\Testing\TestingSceneSwitching.cs" />
     <Compile Include="Assets\Scripts\UI\StageTimer.cs" />
