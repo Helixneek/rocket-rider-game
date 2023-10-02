@@ -1,0 +1,5187 @@
+fileFormatVersion: 2
+guid: 02c2eed1aaf24594393ee3eebbf12e09
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: jews_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 399
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d66c20bc0489db045a72965cee2afb92
+      internalID: -969108290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jews_1
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 399
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e735c5f0f3f5b1b49af57e6a413ce547
+      internalID: 1270279592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jews_2
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 399
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 321e5336d2e2ef845b6d6859b84ace05
+      internalID: 1349093600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jews_3
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 399
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5235f9548144cae419d465b6ee4e8164
+      internalID: -1906942390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jews_4
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 399
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1c676429a5cd8a4a883a18012c83153
+      internalID: 1413600756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jews_5
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 399
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f16989c70ee34694185eccf6d5b5bffb
+      internalID: 849589507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jews_6
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 399
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 380a33b38606dc04a867f9815b198a98
+      internalID: -2027515584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jews_7
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 360
+        width: 63
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dfd58be09f8c764b89ed97081945806
+      internalID: -32104553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jews_8
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 400
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b998adab742210438cd09ccf4db4737
+      internalID: -1788487703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jews_9
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 400
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e24ba8f1017f8b045bbe504b0a2ae755
+      internalID: -1567010593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jews_10
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 400
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fde4ec102483157409b9ae5da2e49230
+      internalID: -2051413693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jews_11
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 400
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c80d9e1adfe2691428c6230bde9d85fd
+      internalID: -930262322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jews_12
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 400
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab28fed2a9fc73a40bd76b491857f707
+      internalID: 1620700825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jews_13
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 400
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 557957bebabf21d4eadc25a902f2ad0e
+      internalID: 1393424332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jews_14
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 400
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bc407f00dcc98347a419eb4b86b7562
+      internalID: -1745671178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jews_15
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 411
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee58b369ea3a17b49aae3071ea070265
+      internalID: -1511410413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jews_16
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 411
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c51048811e126e4fac3a54eb5f207c3
+      internalID: 61013958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jews_17
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 411
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef4aa82257b84674c82cf1daf6143238
+      internalID: -1233083184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jews_18
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 411
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0cf00262cf43d54886a53da00cc08d6
+      internalID: -907479237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jews_19
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 411
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 084d78b7720508d459c93a7b5086f06e
+      internalID: -1853293933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jews_20
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 411
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6d915cd71c63c34e90d9682a92f960d
+      internalID: -732250457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jews_21
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 400
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90da025e643c0084999ea85ff6c37833
+      internalID: 1745888473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jews_22
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 388
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 062f8ce504b9ff64d98778289363979c
+      internalID: -1839463392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jews_23
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 388
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5eb6c1eabd47f074bbbcf4e261325e5f
+      internalID: 1958632675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jews_24
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 388
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf70b7e993f369e4085fe5ebd2f6f973
+      internalID: 686701403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jews_25
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 388
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82ed4b870950499489d09992d604f172
+      internalID: -999398707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jews_26
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 388
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1bb289836ed2ee42bc2696a19afa07d
+      internalID: -1660159130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jews_27
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 388
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c5375abd038fc543b2103afa8c3d705
+      internalID: 314692750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jews_28
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 360
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddcc0f1c2dde69f4a82d87049e8b14b1
+      internalID: -2036201912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jews_29
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 360
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd785a14b66a2cd43ba07a7d20ca889a
+      internalID: -1585792663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jews_30
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 360
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fca298052990ec4dbb67cbf59fc1445
+      internalID: 309559802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jews_31
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 360
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ece46cead819ccb45a42e9a7e952409b
+      internalID: -1374264756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jews_32
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 360
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41a3db8f173c8b94bb5a85d928f00a16
+      internalID: 1884153024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jews_33
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 360
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1e405ab3e449e7499700c5a9b3ab458
+      internalID: -717027928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jews_34
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 331
+        width: 29
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e02e0716596b01f4ea99b6b65c2ff332
+      internalID: 1837789584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jews_35
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 360
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fddd3c5000aed140a95aa7bdb92e301
+      internalID: 985146035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jews_36
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 361
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daab14470ef80ca429e26378673ba0e4
+      internalID: -2094470867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jews_37
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 363
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d9fbee3c8240b64d862cd7554383e40
+      internalID: 281962174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jews_38
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 363
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8467c52e1da8bd14d9a24b4cbf4b8dad
+      internalID: -267438557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jews_39
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 363
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e3de24c687cb1749b2475efcab352cb
+      internalID: -1713884938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jews_40
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 363
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d09f6bacd363e9046b1814b14ebc7288
+      internalID: 1483395310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jews_41
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 363
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db418f9ed5148e144b7605e4358bbdd5
+      internalID: 165789587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jews_42
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 363
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ac09387eafd36c449fccffbe6387725
+      internalID: 681380948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jews_43
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 363
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90082c78b11d38a48872043e76b7e65b
+      internalID: 1961598049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jews_44
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 366
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c9519900f0aea54b861575de65cdfae
+      internalID: -1596361671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jews_45
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 366
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45730697271c2534fa879f0bca29238d
+      internalID: 1841092593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jews_46
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 366
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3da15c6c71ed2344cbf11dcb85edc60b
+      internalID: -1696121804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jews_47
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 366
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f84e01bdaff5ad84e8987318f14e7788
+      internalID: 593625968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jews_48
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 366
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76b03e3c52be5f046b0e605bac644346
+      internalID: 240740410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jews_49
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 366
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12bf42e2ec661a04b85de0c8da409df0
+      internalID: 1367888561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jews_50
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 330
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7b2d1ef5743e014ab0fe2cfd530ce5e
+      internalID: -388253810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jews_51
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 330
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0147a32f27e033a44b3105a3cd7182ec
+      internalID: -1858327062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jews_52
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 330
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6eb53db58ed7344687506faf7dc2d44
+      internalID: -1290594581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jews_53
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 330
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96b829c8532ce544483a9a1acb712fea
+      internalID: -745068248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jews_54
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 330
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d1f31b87fe94e54f8626bfa998309a3
+      internalID: -2097769305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jews_55
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 330
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e146e55ae14ea28429c471ca5069027a
+      internalID: 1133397031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jews_56
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 308
+        width: 33
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 013fc14d8c786cb42be7032abd40f55c
+      internalID: -2125313575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jews_57
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 342
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16f3491f89d249948a5ede7d0bf1d7c8
+      internalID: 1867445173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jews_58
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 331
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 637c7aeb78ebf8b47a0b4df29af921de
+      internalID: 1609218931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jews_59
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 331
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7974923927e91945b818a20e6a0b2d8
+      internalID: 1889779408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jews_60
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 331
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb9e55a4593c4df4094da9c15d35b181
+      internalID: 936514308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jews_61
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 331
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69d7ff135c808934ab73f39d6fdbcaa2
+      internalID: -269431529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jews_62
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 331
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aea5fab88a5b38144b1a22df770a725b
+      internalID: 690660489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jews_63
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 331
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1e5761f7775a8446ad86fe0ec42fa7c
+      internalID: 1280076702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jews_64
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 331
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97d8c11a722a20f41ba052e9f0f27aaf
+      internalID: 1695863968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jews_65
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 346
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47fb241f4f2b7c940879997332d91e97
+      internalID: 1768740403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jews_66
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 346
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fcd8ce7f487ff1499223a51a0221761
+      internalID: -1671215577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jews_67
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 346
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9df6144be896f5c41a4b0195ffc38daf
+      internalID: 256590889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jews_68
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 346
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4737b188ef501e94d89958b14c21b8cf
+      internalID: 1399632151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jews_69
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 346
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2213a6ea5826b4e48803c6dbf9534ce5
+      internalID: -277850400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jews_70
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 346
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c8b1cbb397293a4e83f1f299cc9f3a5
+      internalID: 1620226808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jews_71
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 330
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c31686cf2d4f724a9dd14cbc9ce3f8c
+      internalID: -370363846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jews_72
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 330
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0388a1bedd53745479eef6339ab94e8a
+      internalID: 915789551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jews_73
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 332
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a80c22488b4120c478990799f3a04a61
+      internalID: -918828850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jews_74
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 308
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66ff82f9bf648d241847ee0f2af3c424
+      internalID: -702271438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jews_75
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 308
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ca9edcc03d65fb459d3f9d409f64f4e
+      internalID: -2014885625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jews_76
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 308
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa37301a81e75ec4e8795f70e89ca667
+      internalID: -1565345726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jews_77
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 308
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf644f7632a2bd044913a9395fec77fb
+      internalID: -2045401922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jews_78
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 308
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 028170b97d044c547a15668bd51ed25d
+      internalID: 2071482721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jews_79
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 308
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3d7bdae7c0ab9d45939315549365a8d
+      internalID: 762881149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jews_80
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 308
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21ea8c2c23e37f34f88638e3cd4b35cc
+      internalID: -390092457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jews_81
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 308
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b342ca6ce416ef48a35380d29399e44
+      internalID: -1055594695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jews_82
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 258
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2d0df8bd5562264fb75a79076049918
+      internalID: -561356264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jews_83
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 258
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbc677612b53ed94b882d573e288c816
+      internalID: 1118499040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jews_84
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 258
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f2818440d85ab646bce9e951405f6af
+      internalID: 1058806088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jews_85
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 258
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e9ad576cf5d4dc4099b4e32a6529146
+      internalID: 1147506051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jews_86
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 258
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46397db75f3037848b23b3377aa33683
+      internalID: 721528950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jews_87
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 219
+        width: 63
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 203843535a9696b4597651467c0c113e
+      internalID: -288519767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jews_88
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 259
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b73f9f0a79e301b4e90dc17762862820
+      internalID: -470849096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jews_89
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 259
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4668fe51c6d6d349a45d5fd7ecb4faa
+      internalID: 1459210954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jews_90
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 259
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed95fecf3ebaa6d4da7e50406c9e2ea9
+      internalID: 1964551706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jews_91
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 259
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93fc58a53390c35498ceb85c32586b1b
+      internalID: -2054573752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jews_92
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 259
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 686c502f8f53a5b42924fa9dba488c70
+      internalID: 229625239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jews_93
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 259
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae7636e68475b6343812e58ad5b4ab83
+      internalID: -415750032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jews_94
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 259
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e59ef672e706df4cb70e3f63227c0de
+      internalID: 2092662309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jews_95
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 270
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26d030dc49dfdfe418ec6667d49ce2c7
+      internalID: -1522072090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jews_96
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 270
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3530e535a4c2c394f9dadbef1ebed8b1
+      internalID: 1509347055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jews_97
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 270
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8a0e2f757368c64eb720f14cf85bf03
+      internalID: 112363027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jews_98
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 270
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2c10dc7dcc3d4143af68ff335221996
+      internalID: -94305706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jews_99
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 270
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f6bee9279265a34890925ddce11b7a6
+      internalID: 1484026578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jews_100
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 270
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e950ad07fd7b2954e8459b5df1881a46
+      internalID: 1026166288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jews_101
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 259
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c61b06ac9e475d4d89f614110b33ab2
+      internalID: -2033732015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jews_102
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 247
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8965fc0632250b54d9d647a37451e8bc
+      internalID: 800420765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jews_103
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 247
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d79819fa750f6b8418c058df779d64e3
+      internalID: 463016124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jews_104
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 247
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f6088f0046be7947b7aff83be195b8e
+      internalID: 1814018805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jews_105
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 247
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b5ac2df5db27e84f95b8422d019216d
+      internalID: 440256691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jews_106
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 247
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe9df77f99a380840a813d437dfe2e56
+      internalID: 1168375549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jews_107
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 247
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fffbdbe7d7c01474a910c1b001c33c58
+      internalID: 1407907372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jews_108
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 219
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27fcf2000c75ded468658afa6686a540
+      internalID: 595304274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jews_109
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 219
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21354c446dea4784b9793a281db7254a
+      internalID: 1538943994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jews_110
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 219
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3153ce8f449f6ec4faf1fcc39803b340
+      internalID: -523440431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jews_111
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 219
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 249c6074b2521de40a43134ae09eecd4
+      internalID: 625019255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jews_112
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 190
+        width: 29
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e31f527485572984598647303979a681
+      internalID: 292513860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jews_113
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 219
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a4225f2f3bfea64ca3b4ddd2442db5f
+      internalID: -1396574043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jews_114
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 220
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a705fb3b8ac61b4190b2ae8d3f54d34
+      internalID: 1948767131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jews_115
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 222
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d579b100493a9b04cbba52e60b39014b
+      internalID: 1398508865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jews_116
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 222
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47f11659149cb0e4dbd96acd36872857
+      internalID: 1923619279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jews_117
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 222
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc7fedc1e9787e54684eae44ebe70b65
+      internalID: -1409869417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jews_118
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 222
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b09d1333151d9ab438af72179e9a9e57
+      internalID: -1475387160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jews_119
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 222
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e4dcae38b8f08c47bb085be9bfdc889
+      internalID: 1953284109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jews_120
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 222
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6654bf2e6ca96e446968d62d9578d26e
+      internalID: -1478762337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jews_121
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 222
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cbff2a3857f3dc40aa79bfe08134f89
+      internalID: -308452361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jews_122
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 225
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fab1b6de460a974d88d4c0606dbd4d6
+      internalID: -1796741499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jews_123
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 225
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5f43fd6173cd8a44b6974457d87383a
+      internalID: 1429009505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jews_124
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 225
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6af99ef22b55b84493b0773a787019b
+      internalID: 295197603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jews_125
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 225
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e854bfa8f5423d64887a6f4377150eea
+      internalID: -1001250482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jews_126
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 225
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55ff720eeb19f344cb3eaf5505f19a26
+      internalID: -789989949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jews_127
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 225
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12da96163c1a1c14197fc80d072c293d
+      internalID: 464078891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jews_128
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 189
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8c7022738e593e48a8c851cdf2bde25
+      internalID: -1649540609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jews_129
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 189
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd07302c7c98f3942a44a6c41c9d657f
+      internalID: -1394065368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jews_130
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 189
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6b25c6700e0e994696e13d989492050
+      internalID: -1135040016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jews_131
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 189
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e22d116eab3a565499cbea170f6683f0
+      internalID: -1211355823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jews_132
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 167
+        width: 33
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5c9f2e77673b114ca45d7b09edf1feb
+      internalID: 204682625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jews_133
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 201
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9b28ff9de8abd045a3c034fac051939
+      internalID: 363965353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jews_134
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 190
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1964d8bb45f73a41a30874a3c409989
+      internalID: -1170887471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jews_135
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 190
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88034a433feeda243a063641c7dbf207
+      internalID: -2114601936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jews_136
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 190
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17f9082199c419a4294f0b615031040a
+      internalID: -989306869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jews_137
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 190
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82d97ef8b965d3043b27f135f5504b61
+      internalID: 1686021675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jews_138
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 190
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c41363c5f53fb7d4cad98131631caa57
+      internalID: -624027207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jews_139
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 190
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f13a177ac2b9ec45b3880669e98d1cb
+      internalID: 2112992472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jews_140
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 190
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c4a1b4090a89604e957bbf616e1e67b
+      internalID: 870732675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jews_141
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 205
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bde65974643287547972668a8bf69d38
+      internalID: -2028362926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jews_142
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 205
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c78c491cdcef4d549a80acc2a75c1945
+      internalID: 850252078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jews_143
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 205
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f8140d07af987e4da702e03373def24
+      internalID: -1933185280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jews_144
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 205
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 159a6c46d82f1b740a5212cc355425c6
+      internalID: 717824995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jews_145
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 205
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f69b25f0cdd5814e98e376934405f1c
+      internalID: -1770420581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jews_146
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 205
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49fc3d1ff5d16704ca62f926a0c81986
+      internalID: 1439024413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jews_147
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 189
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e32efccb8ed1dc64abda380e6a95e608
+      internalID: -1460822278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jews_148
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 189
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a4356b0dd4c6064c9711f8981ced220
+      internalID: 1933038449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jews_149
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 191
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f5b73d7cb57e2d49ad5f681a65bdb04
+      internalID: 97447574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jews_150
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 167
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 913498890dab05a4090854caac2b18fd
+      internalID: 372458055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jews_151
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 167
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdd1c9a82dccecb4ba13895039f56517
+      internalID: -1181663494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jews_152
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 167
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 587964ebdb99eac458a5b05486ee3b1e
+      internalID: 920884061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jews_153
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 167
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03bac81583deaa04caf85bd205773105
+      internalID: 833234276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jews_154
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 167
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1273367de305ea645bf3ba4b56890e5f
+      internalID: -1509322561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jews_155
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 167
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64fbe4a42808e6f4f82f69fb813141cd
+      internalID: 1801427823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jews_156
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 111
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ba0021f9a118254d89d2f6e165e0626
+      internalID: -1920981489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jews_157
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 111
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e95f6be64385fbf4f92b76ef9cdffdaa
+      internalID: 1010503768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jews_158
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 111
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f2cc3041c3f1b1489e0aca2d831a36b
+      internalID: -1027862717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jews_159
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 111
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8320edf5902fdc049a2973606517e30c
+      internalID: -1550482830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jews_160
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 111
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b94b400b6ce1b149861db263f9f32f1
+      internalID: 780279026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jews_161
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 72
+        width: 63
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 989af731dce3ec042b2c72179e178a80
+      internalID: 1454529803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jews_162
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 112
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 127661af5b55cdc4fbf0599ff2ca5908
+      internalID: -417298444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jews_163
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 112
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a791b3d24ec9ee47a2372b995f229bf
+      internalID: 1596203782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jews_164
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 112
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6955a2527a36a843a783387da6cf567
+      internalID: -1314755903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jews_165
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 112
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cef68a468a9c92e458ae5ce033806d02
+      internalID: -1491649410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jews_166
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 112
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27aee905ad027e042a8c29c4a79dd5de
+      internalID: 1599490992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jews_167
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 112
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c79c8c4baef1fef4aaf193fe383756e6
+      internalID: -918878089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jews_168
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 112
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64c7b8b9a54874349baf15c7e4c2ff01
+      internalID: 398900119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jews_169
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 123
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02340d5ea8d4ed945a812064a74603b5
+      internalID: -672123103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jews_170
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 123
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48ac8d65b4091a547bd2882373cfc5ce
+      internalID: -426162237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jews_171
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 123
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67b8b864a6863f94daa091121cdd088f
+      internalID: 1706380884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jews_172
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 123
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bdfc8e3d018c0f46993a13a7243f19d
+      internalID: 1538793038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jews_173
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 123
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6eb2e3f54ae3c64d8edc6947d6a13b0
+      internalID: 1919749172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jews_174
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 123
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fac158944d1d62745844a77d840b5442
+      internalID: 1225665982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jews_175
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 112
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6850a10ae5af74f4da5986740d5ed1a2
+      internalID: 735422857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jews_176
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 100
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 819194840a001f14b92cb3bf92b0759d
+      internalID: 1552052846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jews_177
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 100
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efc6b70f643a50847bda267fce8995c8
+      internalID: 1112089031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jews_178
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 100
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7956b1e6e48cae54088d589c652fa060
+      internalID: -725704581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jews_179
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 100
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d54d33723e01f414d8b6f4ccedfdff7e
+      internalID: -1193746355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jews_180
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 100
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 509bd77bd34859047b6e56c38655887a
+      internalID: 1022071767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jews_181
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 100
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 669bfb83e1f05d243ae2214fb230ebf4
+      internalID: -337581028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jews_182
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 72
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6925b6b482d76f746b7783628fb52185
+      internalID: 245878544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jews_183
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 72
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed139bd7e27dcce41a90fd70bdd27c35
+      internalID: -55124338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jews_184
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 72
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95271a5cabf412447adcdc5cc210b408
+      internalID: -516282712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jews_185
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 72
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77029a642e3a11545ab86f6e74b05517
+      internalID: 1398998263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jews_186
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 43
+        width: 29
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f80f0c7ab45c5840b7ba0583211f1e5
+      internalID: 1690059206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jews_187
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 72
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9795f2c326629a40accf7d3520f5ada
+      internalID: -1967099684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jews_188
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 73
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 767f6a405c080774ea791b2e708c57b7
+      internalID: -1061894097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jews_189
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 75
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86e75b01ce8600a4284c56d148299c28
+      internalID: 585825882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jews_190
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 75
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19a3d1d7cd4c16840ad17cfcb9408d3e
+      internalID: 573201234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jews_191
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 75
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4fde8150b84daf4297821d6d4fb9f63
+      internalID: 1875579878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jews_192
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 75
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95e7f3e469a760d4e9bb0bb143b03794
+      internalID: 1629709281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jews_193
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 75
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55d3b4b82872668439018b9a6874f826
+      internalID: -92365486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jews_194
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 75
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04f2d7e206beb064a987ee94dbd51530
+      internalID: -19452337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jews_195
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 75
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a57c2db2adac0b4691b1b819b4ba214
+      internalID: -1054402011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jews_196
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 78
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7d429c851e09634db862513f16314ac
+      internalID: -101469592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jews_197
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 78
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bed1022caf3484b4f94abd8b5021b2a1
+      internalID: -730789069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jews_198
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 78
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e118d3075ca4174ab749c863f7a0642
+      internalID: -702129074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jews_199
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 78
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17c494b64d63837448f2ee2e58230763
+      internalID: 630505368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jews_200
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 78
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 988c90ae31f9f9441a288d15677c4685
+      internalID: -1135272011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jews_201
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 78
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc902d344283aad4bb1aae5d6a0ed7cb
+      internalID: 1128551009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jews_202
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 42
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59eb841933b291341931c122de966914
+      internalID: -1896884670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jews_203
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 42
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a661ddcd068454449a5815706266ee5
+      internalID: -2143699779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jews_204
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 42
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e20256e339447e46be45ea114db976d
+      internalID: -1431417790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jews_205
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 42
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 984c620b1a6e90840a80f9ef6379bcfe
+      internalID: -1297175006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jews_206
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 20
+        width: 33
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3182c91122324f44ac0d057697e4cff
+      internalID: -392133019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jews_207
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 54
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43779332085f67e4f9b5b56e73297780
+      internalID: 874692728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jews_208
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 43
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c293854372bb4d43a89582c120042bd
+      internalID: 1305200301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jews_209
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 43
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08f8329709cccf04e9979afdc06ea848
+      internalID: 353419002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jews_210
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 43
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6260d86e4542f0042abef5eb23640749
+      internalID: 2070268834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jews_211
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 43
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c00e0e5b3f9821447a6d5d638bf9d97b
+      internalID: 1266678284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jews_212
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 43
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51c2241f4c682cb46be0308046eac070
+      internalID: 1531269343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jews_213
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 43
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5efe86bc52cfc2140beea0a862be2fdb
+      internalID: -554057326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jews_214
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 43
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d5a1b6d47125b041b37940f39972577
+      internalID: 2123159794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jews_215
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 58
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8883dd8d541a1824eb5ea5f68287175e
+      internalID: -1387455197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jews_216
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 58
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef73c2b016c04f54da546053391f7dae
+      internalID: 1296984301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jews_217
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 58
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d7d109084259a343b5dc29c247c44c6
+      internalID: 1463854118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jews_218
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 58
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb337277751b14745b9d85edb59a3e8c
+      internalID: 2109742387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jews_219
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 58
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0abd6e51df838254587585497c35b5cb
+      internalID: 562569419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jews_220
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 58
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79474b9862f9c1446a0deb402b1068c1
+      internalID: -249803919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jews_221
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 42
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10103b325ec706c43bce67452be81080
+      internalID: 28372621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jews_222
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 42
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfd4713fc051072409a0e3bc26f8bee7
+      internalID: -2042375505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jews_223
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 44
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 162da6e9c2ae9d842bc800cd9ed598cb
+      internalID: -430007526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jews_224
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 20
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06f6d9c65a33dde4d87a808a7ab1a622
+      internalID: -817026373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jews_225
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 20
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf20b66fec665904297e9defaae4657f
+      internalID: -511697342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jews_226
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 20
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0480635b6bfce884a811beeb9dedecde
+      internalID: -226016067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jews_227
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 20
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab12d0ecd57aa74488d0722b964efcad
+      internalID: 1648739462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jews_228
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 20
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2b98e67155052e4a9b816e195def5da
+      internalID: 995641059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jews_229
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 20
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b4332a19974a5940beff86fb19283c2
+      internalID: -1010642860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      jews_0: -969108290
+      jews_1: 1270279592
+      jews_10: -2051413693
+      jews_100: 1026166288
+      jews_101: -2033732015
+      jews_102: 800420765
+      jews_103: 463016124
+      jews_104: 1814018805
+      jews_105: 440256691
+      jews_106: 1168375549
+      jews_107: 1407907372
+      jews_108: 595304274
+      jews_109: 1538943994
+      jews_11: -930262322
+      jews_110: -523440431
+      jews_111: 625019255
+      jews_112: 292513860
+      jews_113: -1396574043
+      jews_114: 1948767131
+      jews_115: 1398508865
+      jews_116: 1923619279
+      jews_117: -1409869417
+      jews_118: -1475387160
+      jews_119: 1953284109
+      jews_12: 1620700825
+      jews_120: -1478762337
+      jews_121: -308452361
+      jews_122: -1796741499
+      jews_123: 1429009505
+      jews_124: 295197603
+      jews_125: -1001250482
+      jews_126: -789989949
+      jews_127: 464078891
+      jews_128: -1649540609
+      jews_129: -1394065368
+      jews_13: 1393424332
+      jews_130: -1135040016
+      jews_131: -1211355823
+      jews_132: 204682625
+      jews_133: 363965353
+      jews_134: -1170887471
+      jews_135: -2114601936
+      jews_136: -989306869
+      jews_137: 1686021675
+      jews_138: -624027207
+      jews_139: 2112992472
+      jews_14: -1745671178
+      jews_140: 870732675
+      jews_141: -2028362926
+      jews_142: 850252078
+      jews_143: -1933185280
+      jews_144: 717824995
+      jews_145: -1770420581
+      jews_146: 1439024413
+      jews_147: -1460822278
+      jews_148: 1933038449
+      jews_149: 97447574
+      jews_15: -1511410413
+      jews_150: 372458055
+      jews_151: -1181663494
+      jews_152: 920884061
+      jews_153: 833234276
+      jews_154: -1509322561
+      jews_155: 1801427823
+      jews_156: -1920981489
+      jews_157: 1010503768
+      jews_158: -1027862717
+      jews_159: -1550482830
+      jews_16: 61013958
+      jews_160: 780279026
+      jews_161: 1454529803
+      jews_162: -417298444
+      jews_163: 1596203782
+      jews_164: -1314755903
+      jews_165: -1491649410
+      jews_166: 1599490992
+      jews_167: -918878089
+      jews_168: 398900119
+      jews_169: -672123103
+      jews_17: -1233083184
+      jews_170: -426162237
+      jews_171: 1706380884
+      jews_172: 1538793038
+      jews_173: 1919749172
+      jews_174: 1225665982
+      jews_175: 735422857
+      jews_176: 1552052846
+      jews_177: 1112089031
+      jews_178: -725704581
+      jews_179: -1193746355
+      jews_18: -907479237
+      jews_180: 1022071767
+      jews_181: -337581028
+      jews_182: 245878544
+      jews_183: -55124338
+      jews_184: -516282712
+      jews_185: 1398998263
+      jews_186: 1690059206
+      jews_187: -1967099684
+      jews_188: -1061894097
+      jews_189: 585825882
+      jews_19: -1853293933
+      jews_190: 573201234
+      jews_191: 1875579878
+      jews_192: 1629709281
+      jews_193: -92365486
+      jews_194: -19452337
+      jews_195: -1054402011
+      jews_196: -101469592
+      jews_197: -730789069
+      jews_198: -702129074
+      jews_199: 630505368
+      jews_2: 1349093600
+      jews_20: -732250457
+      jews_200: -1135272011
+      jews_201: 1128551009
+      jews_202: -1896884670
+      jews_203: -2143699779
+      jews_204: -1431417790
+      jews_205: -1297175006
+      jews_206: -392133019
+      jews_207: 874692728
+      jews_208: 1305200301
+      jews_209: 353419002
+      jews_21: 1745888473
+      jews_210: 2070268834
+      jews_211: 1266678284
+      jews_212: 1531269343
+      jews_213: -554057326
+      jews_214: 2123159794
+      jews_215: -1387455197
+      jews_216: 1296984301
+      jews_217: 1463854118
+      jews_218: 2109742387
+      jews_219: 562569419
+      jews_22: -1839463392
+      jews_220: -249803919
+      jews_221: 28372621
+      jews_222: -2042375505
+      jews_223: -430007526
+      jews_224: -817026373
+      jews_225: -511697342
+      jews_226: -226016067
+      jews_227: 1648739462
+      jews_228: 995641059
+      jews_229: -1010642860
+      jews_23: 1958632675
+      jews_24: 686701403
+      jews_25: -999398707
+      jews_26: -1660159130
+      jews_27: 314692750
+      jews_28: -2036201912
+      jews_29: -1585792663
+      jews_3: -1906942390
+      jews_30: 309559802
+      jews_31: -1374264756
+      jews_32: 1884153024
+      jews_33: -717027928
+      jews_34: 1837789584
+      jews_35: 985146035
+      jews_36: -2094470867
+      jews_37: 281962174
+      jews_38: -267438557
+      jews_39: -1713884938
+      jews_4: 1413600756
+      jews_40: 1483395310
+      jews_41: 165789587
+      jews_42: 681380948
+      jews_43: 1961598049
+      jews_44: -1596361671
+      jews_45: 1841092593
+      jews_46: -1696121804
+      jews_47: 593625968
+      jews_48: 240740410
+      jews_49: 1367888561
+      jews_5: 849589507
+      jews_50: -388253810
+      jews_51: -1858327062
+      jews_52: -1290594581
+      jews_53: -745068248
+      jews_54: -2097769305
+      jews_55: 1133397031
+      jews_56: -2125313575
+      jews_57: 1867445173
+      jews_58: 1609218931
+      jews_59: 1889779408
+      jews_6: -2027515584
+      jews_60: 936514308
+      jews_61: -269431529
+      jews_62: 690660489
+      jews_63: 1280076702
+      jews_64: 1695863968
+      jews_65: 1768740403
+      jews_66: -1671215577
+      jews_67: 256590889
+      jews_68: 1399632151
+      jews_69: -277850400
+      jews_7: -32104553
+      jews_70: 1620226808
+      jews_71: -370363846
+      jews_72: 915789551
+      jews_73: -918828850
+      jews_74: -702271438
+      jews_75: -2014885625
+      jews_76: -1565345726
+      jews_77: -2045401922
+      jews_78: 2071482721
+      jews_79: 762881149
+      jews_8: -1788487703
+      jews_80: -390092457
+      jews_81: -1055594695
+      jews_82: -561356264
+      jews_83: 1118499040
+      jews_84: 1058806088
+      jews_85: 1147506051
+      jews_86: 721528950
+      jews_87: -288519767
+      jews_88: -470849096
+      jews_89: 1459210954
+      jews_9: -1567010593
+      jews_90: 1964551706
+      jews_91: -2054573752
+      jews_92: 229625239
+      jews_93: -415750032
+      jews_94: 2092662309
+      jews_95: -1522072090
+      jews_96: 1509347055
+      jews_97: 112363027
+      jews_98: -94305706
+      jews_99: 1484026578
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
