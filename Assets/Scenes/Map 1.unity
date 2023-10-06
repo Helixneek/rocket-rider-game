@@ -1865,7 +1865,6 @@ GameObject:
   - component: {fileID: 837629468}
   - component: {fileID: 837629467}
   - component: {fileID: 837629469}
-  - component: {fileID: 837629470}
   m_Layer: 0
   m_Name: GameManager
   m_TagString: Untagged
@@ -1916,18 +1915,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   transitionAnim: {fileID: 800515911}
---- !u!114 &837629470
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 837629466}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 9ffba4e96f54a50458c695ce263595a7, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!1 &875191235
 GameObject:
   m_ObjectHideFlags: 0
@@ -2802,7 +2789,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6788542881924302432, guid: 292e03bf238d2d340815dbbd03fd802d, type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 9131071814230260252, guid: 292e03bf238d2d340815dbbd03fd802d, type: 3}
       propertyPath: m_LocalPosition.x
