@@ -1,0 +1,2327 @@
+fileFormatVersion: 2
+guid: 79be8a82e8703bb40a4c5022ba51e3f1
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 50
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Tile_Rule_0
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 409
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfcb76895df0ae3428fda787dbb6d2da
+      internalID: 1949637725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile_Rule_1
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 409
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15a8a581a85f157428c3374227ea5f3f
+      internalID: 809151207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile_Rule_2
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 409
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2dc1b331e65cd542ba2e6bc4a91c365
+      internalID: -804638256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile_Rule_3
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 409
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4f96caa57b76bc4081aae77e4dae414
+      internalID: -713410904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile_Rule_4
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 409
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40c2d97f281363f4ebe2d079b3d9ecf7
+      internalID: 718898363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile_Rule_5
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 409
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71d31a2519bc959458dcea844c781b63
+      internalID: 11389519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile_Rule_6
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 409
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27551b9b28a768e4dac4c72af0032b52
+      internalID: -654790194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile_Rule_7
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 409
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88140db5de6b719448bf98d0201f6a11
+      internalID: 733402883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile_Rule_8
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 409
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc1f92c504226dd4e95aa7dcb91bc5c0
+      internalID: 1693920209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile_Rule_9
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 409
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96aa03a4d477d774fb41adbdf7d9ed00
+      internalID: -1758480988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile_Rule_10
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 408
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4273de87d648979479176bdcda1f85d0
+      internalID: 882661479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile_Rule_11
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 408
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 905968fc2a7b3014a9d845628555cc0a
+      internalID: 2134808677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile_Rule_12
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 410
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1fa62b835bd13e4f814ba13dc5ae8fe
+      internalID: -474389365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile_Rule_13
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 410
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 771841e1f8dd3274b98c7bc046302a49
+      internalID: -1294758393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile_Rule_14
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 410
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be7e687ba98190d44ad8cf091eb4948b
+      internalID: 513966384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile_Rule_15
+      rect:
+        serializedVersion: 2
+        x: 985
+        y: 410
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d05611faac16d404fb2ad1d639d2bcb7
+      internalID: -1527986485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile_Rule_16
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 358
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b515a5bda0eb1714aaf0208f4d5ca0f7
+      internalID: 1964199851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile_Rule_17
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 358
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3d8f971c59b14f4cb4beede524ae2fd
+      internalID: 1372280903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile_Rule_18
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 358
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7a332005ac68e54cb4609c51ba8b23d
+      internalID: -414763986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile_Rule_19
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 358
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0b323a7ad114e14e9efe60408b35ce4
+      internalID: -92029394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile_Rule_20
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 358
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea0e265cebfd1f846a1d81ae8a8d932e
+      internalID: -95388738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile_Rule_21
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 358
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f2a0f671dd4c9a4e901a9bb3fb4dcf2
+      internalID: -1202765148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile_Rule_22
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 358
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72b25a845797fff44882040a936208e7
+      internalID: 150806195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile_Rule_23
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 358
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a5332b7e9987da4ab882eea5000074b
+      internalID: -952745164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile_Rule_24
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 358
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64b7ee330053b344daaf0726cf8eb34b
+      internalID: 36061347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile_Rule_25
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 358
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10322bb5de758154eac905c21fe98caa
+      internalID: -2009372409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile_Rule_26
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 357
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fd3936738bd30541aba4d315ed73e7d
+      internalID: 289595110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile_Rule_27
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 357
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c66ceff807dc0ad4195b1dcc77a6a631
+      internalID: -393818786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile_Rule_28
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 359
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4158db21ef9ebab44bf24968199fc437
+      internalID: -975008289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile_Rule_29
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 359
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7859e93b1070c3e479710364bfa081fc
+      internalID: -670430150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile_Rule_30
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 359
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e8bc1f6a90f5be41a17109c92e16391
+      internalID: 782250150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile_Rule_31
+      rect:
+        serializedVersion: 2
+        x: 985
+        y: 359
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7345885012b82284395baed570a03457
+      internalID: 552730298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile_Rule_32
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 288
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 845b12f00899e544cb31a18ed8dba275
+      internalID: -1617020247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile_Rule_33
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 288
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f4ebac68eb93fe42bec6fbd0c841961
+      internalID: 75400267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile_Rule_34
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 289
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c1f8d299394b26479d7cad3fd8bbc04
+      internalID: -685039024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile_Rule_35
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 289
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce4522398af8f7c4eb7439df27f2374d
+      internalID: -1803941440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile_Rule_36
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 287
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a22882a15fc8b44fbd16887e1d39bf8
+      internalID: 470269491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile_Rule_37
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 287
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dcb8c9fa38ea264285a4c196310a1e6
+      internalID: -1124401645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile_Rule_38
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 287
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 959671319e193d945909a2499c1a3ae2
+      internalID: 1208637468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile_Rule_39
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 287
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9605cc2bf2e3b147979c8b30f5e74ba
+      internalID: -1224172410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile_Rule_40
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 291
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a01a619e1faddc4a84b65f045ec57d5
+      internalID: 1778073467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile_Rule_41
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 291
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a96319808f710324f84311a4b979674c
+      internalID: -2111019054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile_Rule_42
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 291
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6f6dfa081b6ca8478a214139ba0fbc9
+      internalID: -1042870357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile_Rule_43
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 291
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 288cf5aaa1a4e2e4eadc0c2280e4f96f
+      internalID: -1973755554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile_Rule_44
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 291
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c17ac2e255acb694e9204f788b86cfab
+      internalID: -1243051129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile_Rule_45
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 291
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d81cc739202379e4b9c6d24a585ca041
+      internalID: -1160163167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile_Rule_46
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 291
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81d78cc46a93f3c4892be127cee8fbbf
+      internalID: 2061574634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile_Rule_47
+      rect:
+        serializedVersion: 2
+        x: 981
+        y: 291
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bc13007d39333e428afc758a257ba1e
+      internalID: 2132387096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile_Rule_48
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 237
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2d441d00ce8db64bba720aaec583e46
+      internalID: 852756037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile_Rule_49
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 237
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a40ee2e2ddf84c14c920eae3072fcff3
+      internalID: -453689677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile_Rule_50
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 238
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c70d271335c7d4547a35527676c6af06
+      internalID: -722098621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile_Rule_51
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 238
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2c68e89d548b3242870985245786e6c
+      internalID: -2018741990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile_Rule_52
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 236
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 694957a01aa11794a9523683e854a2fa
+      internalID: -589220837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile_Rule_53
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 236
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5deae0ec557b28a48a9b14916d17ca15
+      internalID: 803973178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile_Rule_54
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 236
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bd09f8ccaf6748429af3de4252bfcc0
+      internalID: 268295212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile_Rule_55
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 236
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d0f29c153466e04fba1cc14b581ba5f
+      internalID: 2112250215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile_Rule_56
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 240
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e8d43a68eea67849b406e642aed4cb0
+      internalID: 1292162663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile_Rule_57
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 240
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11e214d158c77cc4997a6bcbf6288d8e
+      internalID: -660898558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile_Rule_58
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 240
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a579849355249364fab986c9056c7452
+      internalID: -2137443852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile_Rule_59
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 240
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b6bbe70be8a3fd4782cf9c009a753f5
+      internalID: -309697560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile_Rule_60
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 240
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37cc91218703f824c8a7c55213b77199
+      internalID: 1625803538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile_Rule_61
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 240
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cd1876e09748ab4bb503c03f873a506
+      internalID: -1964361236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile_Rule_62
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 240
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a868ec2d8f7a3284d8e22e0a6dc09247
+      internalID: 489593189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile_Rule_63
+      rect:
+        serializedVersion: 2
+        x: 981
+        y: 240
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b03c304bc41a1349a1c0a72cb1a52ce
+      internalID: 1020694953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile_Rule_64
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 174
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c85edac03b3a0042a237628ebbc7bc3
+      internalID: 598663959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile_Rule_65
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 174
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 753f61775f70aa54aa6202bd3e741fa4
+      internalID: -764824097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile_Rule_66
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 168
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b69c18603edb91f42bba88acf17c2688
+      internalID: 1112814153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile_Rule_67
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 168
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7115d7d4392c52848ab239775a5680bd
+      internalID: -179656427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile_Rule_68
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 178
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1283cb6e9c8c094ea780823e33f9bc6
+      internalID: -1030120032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile_Rule_69
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 178
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 589db616f8bdec743be53fd882bb9cea
+      internalID: -383226455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile_Rule_70
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 178
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b668730ef1890749b6fc0c0c49a7bd8
+      internalID: -1635989058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile_Rule_71
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 178
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eef4941c4747c6e4295b98b0671aac25
+      internalID: -1494779330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile_Rule_72
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 176
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5d88e2a7570aef4eb7ed7b8261c7bf3
+      internalID: -87919761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile_Rule_73
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 176
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5da37728babdb77478832602ed0ed637
+      internalID: -670580497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile_Rule_74
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 176
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df8a16253ab9d804da79731bb8dd2209
+      internalID: 1368698008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile_Rule_75
+      rect:
+        serializedVersion: 2
+        x: 973
+        y: 176
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd4c850415f979b4682b339375f1605d
+      internalID: -367705340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile_Rule_76
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 123
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a817345d971b31e46afd6fdb6dd86d4f
+      internalID: -543740909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile_Rule_77
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 123
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e354e0095627c9f499692e5b486a9d79
+      internalID: 468569570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile_Rule_78
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 117
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b0a2eb30d264a240af265a7161ee23c
+      internalID: 702301803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile_Rule_79
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 117
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e357f02d56a105f43bec9831fc680360
+      internalID: 2054397067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile_Rule_80
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 127
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80d0004c37f9ecf41b9024b490884134
+      internalID: 274205855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile_Rule_81
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 127
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e49de4e8b8943ce42965cc92749074a1
+      internalID: -925040120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile_Rule_82
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 127
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 542822abb4ed6fe4f8cebc42a4d9431e
+      internalID: 1944931619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile_Rule_83
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 127
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c058c8f584e2254da5f9aa099412b29
+      internalID: 1725561727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile_Rule_84
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 125
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e7b5c93a806dc548a22515b091fb1c2
+      internalID: 289894618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile_Rule_85
+      rect:
+        serializedVersion: 2
+        x: 973
+        y: 125
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01cbb63fe38c352499172a24364549f9
+      internalID: -87450208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile_Rule_86
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 65
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4075eb7021b323d428277ae478d1b880
+      internalID: -104513285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile_Rule_87
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 65
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4055ed6f6db4444dbcfbc7065abcb83
+      internalID: 1231700174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile_Rule_88
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 65
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb0d152e344df774f980d068aa267248
+      internalID: 1805030668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile_Rule_89
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 65
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 048d2404c188e64408ddec978c472dc4
+      internalID: 162728180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile_Rule_90
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 66
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 609f3307e6c8ada428609c9b70a7b292
+      internalID: 326322109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile_Rule_91
+      rect:
+        serializedVersion: 2
+        x: 973
+        y: 66
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db297fd0cbfa5f941a9959a9b1f86ca9
+      internalID: -277135781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile_Rule_92
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 14
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbbb9b39a0b9e854f8a720e793c37f50
+      internalID: 571860724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile_Rule_93
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 14
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69198781f81d31c459b4e1f0f06b028f
+      internalID: 1320726823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile_Rule_94
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 14
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e7e836e74590d6458b28778d0818d3e
+      internalID: -1913336030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile_Rule_95
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 14
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e0553bba560659449abe54ac3af76e4
+      internalID: -1327577257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile_Rule_96
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 15
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8334624c789a734096e3880b294b039
+      internalID: -378134548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile_Rule_97
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 15
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de7d756f6533c3b41aff0b55530101fe
+      internalID: -2066915841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile_Rule_98
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 15
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8257c8b38ac0bac499c3a0a006bb01ca
+      internalID: -834797947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile_Rule_99
+      rect:
+        serializedVersion: 2
+        x: 973
+        y: 15
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab16682a9e9728648b53406f0817f0cd
+      internalID: 430875323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Tile_Rule_0: 1949637725
+      Tile_Rule_1: 809151207
+      Tile_Rule_10: 882661479
+      Tile_Rule_11: 2134808677
+      Tile_Rule_12: -474389365
+      Tile_Rule_13: -1294758393
+      Tile_Rule_14: 513966384
+      Tile_Rule_15: -1527986485
+      Tile_Rule_16: 1964199851
+      Tile_Rule_17: 1372280903
+      Tile_Rule_18: -414763986
+      Tile_Rule_19: -92029394
+      Tile_Rule_2: -804638256
+      Tile_Rule_20: -95388738
+      Tile_Rule_21: -1202765148
+      Tile_Rule_22: 150806195
+      Tile_Rule_23: -952745164
+      Tile_Rule_24: 36061347
+      Tile_Rule_25: -2009372409
+      Tile_Rule_26: 289595110
+      Tile_Rule_27: -393818786
+      Tile_Rule_28: -975008289
+      Tile_Rule_29: -670430150
+      Tile_Rule_3: -713410904
+      Tile_Rule_30: 782250150
+      Tile_Rule_31: 552730298
+      Tile_Rule_32: -1617020247
+      Tile_Rule_33: 75400267
+      Tile_Rule_34: -685039024
+      Tile_Rule_35: -1803941440
+      Tile_Rule_36: 470269491
+      Tile_Rule_37: -1124401645
+      Tile_Rule_38: 1208637468
+      Tile_Rule_39: -1224172410
+      Tile_Rule_4: 718898363
+      Tile_Rule_40: 1778073467
+      Tile_Rule_41: -2111019054
+      Tile_Rule_42: -1042870357
+      Tile_Rule_43: -1973755554
+      Tile_Rule_44: -1243051129
+      Tile_Rule_45: -1160163167
+      Tile_Rule_46: 2061574634
+      Tile_Rule_47: 2132387096
+      Tile_Rule_48: 852756037
+      Tile_Rule_49: -453689677
+      Tile_Rule_5: 11389519
+      Tile_Rule_50: -722098621
+      Tile_Rule_51: -2018741990
+      Tile_Rule_52: -589220837
+      Tile_Rule_53: 803973178
+      Tile_Rule_54: 268295212
+      Tile_Rule_55: 2112250215
+      Tile_Rule_56: 1292162663
+      Tile_Rule_57: -660898558
+      Tile_Rule_58: -2137443852
+      Tile_Rule_59: -309697560
+      Tile_Rule_6: -654790194
+      Tile_Rule_60: 1625803538
+      Tile_Rule_61: -1964361236
+      Tile_Rule_62: 489593189
+      Tile_Rule_63: 1020694953
+      Tile_Rule_64: 598663959
+      Tile_Rule_65: -764824097
+      Tile_Rule_66: 1112814153
+      Tile_Rule_67: -179656427
+      Tile_Rule_68: -1030120032
+      Tile_Rule_69: -383226455
+      Tile_Rule_7: 733402883
+      Tile_Rule_70: -1635989058
+      Tile_Rule_71: -1494779330
+      Tile_Rule_72: -87919761
+      Tile_Rule_73: -670580497
+      Tile_Rule_74: 1368698008
+      Tile_Rule_75: -367705340
+      Tile_Rule_76: -543740909
+      Tile_Rule_77: 468569570
+      Tile_Rule_78: 702301803
+      Tile_Rule_79: 2054397067
+      Tile_Rule_8: 1693920209
+      Tile_Rule_80: 274205855
+      Tile_Rule_81: -925040120
+      Tile_Rule_82: 1944931619
+      Tile_Rule_83: 1725561727
+      Tile_Rule_84: 289894618
+      Tile_Rule_85: -87450208
+      Tile_Rule_86: -104513285
+      Tile_Rule_87: 1231700174
+      Tile_Rule_88: 1805030668
+      Tile_Rule_89: 162728180
+      Tile_Rule_9: -1758480988
+      Tile_Rule_90: 326322109
+      Tile_Rule_91: -277135781
+      Tile_Rule_92: 571860724
+      Tile_Rule_93: 1320726823
+      Tile_Rule_94: -1913336030
+      Tile_Rule_95: -1327577257
+      Tile_Rule_96: -378134548
+      Tile_Rule_97: -2066915841
+      Tile_Rule_98: -834797947
+      Tile_Rule_99: 430875323
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

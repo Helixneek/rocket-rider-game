@@ -8,10 +8,6 @@ public class sceneCheckpoint : MonoBehaviour
     public Transform playerStartPosition; // Assign the player's starting position in the Inspector
     private GameObject player;
 
-
-
-
-
     private void Awake()
     {
         // Find the player GameObject if it's not already set
