@@ -13,8 +13,7 @@ public class changeScene : MonoBehaviour
         if (collision.CompareTag("Player"))
         {
 
-            // Make the player GameObject persist across scene changes.
-            DontDestroyOnLoad(collision.gameObject);
+            // Make the player GameObject persist across scene changes
             sceneController.instance.NextLevel();
         }
     }
