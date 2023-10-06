@@ -996,7 +996,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e69ca06bc3a8c2c468b59e95568395db, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Respawn: 0
+  Respawn: 1
 --- !u!61 &340646353
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -2652,8 +2652,8 @@ GameObject:
   - component: {fileID: 1922198522}
   - component: {fileID: 1922198521}
   - component: {fileID: 1922198520}
-  - component: {fileID: 1922198519}
   - component: {fileID: 1922198523}
+  - component: {fileID: 1922198524}
   m_Layer: 0
   m_Name: Portal
   m_TagString: Portal
@@ -2661,18 +2661,6 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!114 &1922198519
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1922198517}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: d7126680ca2def84c99267196e7a82f4, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!58 &1922198520
 CircleCollider2D:
   m_ObjectHideFlags: 0
@@ -2788,6 +2776,18 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   disableDuration: 2
+--- !u!114 &1922198524
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1922198517}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d7126680ca2def84c99267196e7a82f4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1001 &4556896588530665925
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -2802,7 +2802,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6788542881924302432, guid: 292e03bf238d2d340815dbbd03fd802d, type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 9131071814230260252, guid: 292e03bf238d2d340815dbbd03fd802d, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 9131071814230260252, guid: 292e03bf238d2d340815dbbd03fd802d, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 9131071814230260252, guid: 292e03bf238d2d340815dbbd03fd802d, type: 3}
       propertyPath: m_LocalPosition.x

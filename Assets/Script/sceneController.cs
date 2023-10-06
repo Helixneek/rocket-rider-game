@@ -22,7 +22,9 @@ public class sceneController : MonoBehaviour
             Destroy(gameObject);
         }
     }
-   
+
+
+
     public void NextLevel()
     {
         StartCoroutine(LoadLevel());
@@ -32,6 +34,7 @@ public class sceneController : MonoBehaviour
     {
         transitionAnim.SetTrigger("End");
         yield return new WaitForSeconds(1);
+
 
         SceneManager.LoadSceneAsync(SceneManager.GetActiveScene().buildIndex + 1);
         transitionAnim.SetTrigger("Start");

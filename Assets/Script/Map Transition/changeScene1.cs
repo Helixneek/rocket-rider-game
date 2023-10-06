@@ -18,7 +18,7 @@ public class changeScene1 : MonoBehaviour
     {
         fade.FadeIn();
         yield return new WaitForSeconds(2);
-        SceneManager.LoadScene("Map 3");
+        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1);
     }
     private void OnTriggerEnter2D(Collider2D collision)
     {
@@ -27,8 +27,6 @@ public class changeScene1 : MonoBehaviour
             // Make the player GameObject persist across scene changes.
             DontDestroyOnLoad(collision.gameObject);
             StartCoroutine(ChangeScene());
-
-
         }
     }
 }
