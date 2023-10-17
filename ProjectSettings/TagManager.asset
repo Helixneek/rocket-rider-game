@@ -45,9 +45,15 @@ TagManager:
   - name: Background
     uniqueID: 3913329039
     locked: 0
+  - name: BG Decor
+    uniqueID: 3316830885
+    locked: 0
   - name: Floor
     uniqueID: 3107464137
     locked: 0
   - name: Player
     uniqueID: 1723599413
+    locked: 0
+  - name: Foreground
+    uniqueID: 935450365
     locked: 0
