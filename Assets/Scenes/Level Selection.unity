@@ -553,13 +553,13 @@ MonoBehaviour:
       - m_Target: {fileID: 1056082069}
         m_TargetAssemblyTypeName: LevelSelection, Assembly-CSharp
         m_MethodName: OpenLevel
-        m_Mode: 3
+        m_Mode: 5
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 3
           m_FloatArgument: 0
-          m_StringArgument: 
+          m_StringArgument: 1-3
           m_BoolArgument: 0
         m_CallState: 2
 --- !u!114 &659209750
@@ -820,13 +820,13 @@ MonoBehaviour:
       - m_Target: {fileID: 1056082069}
         m_TargetAssemblyTypeName: LevelSelection, Assembly-CSharp
         m_MethodName: OpenLevel
-        m_Mode: 3
+        m_Mode: 5
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 1
           m_FloatArgument: 0
-          m_StringArgument: 
+          m_StringArgument: 1-1
           m_BoolArgument: 0
         m_CallState: 2
 --- !u!114 &902535051
@@ -1120,7 +1120,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6788542881924302432, guid: 292e03bf238d2d340815dbbd03fd802d, type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 9131071814230260252, guid: 292e03bf238d2d340815dbbd03fd802d, type: 3}
       propertyPath: m_LocalPosition.x
@@ -1253,13 +1253,13 @@ MonoBehaviour:
       - m_Target: {fileID: 1056082069}
         m_TargetAssemblyTypeName: LevelSelection, Assembly-CSharp
         m_MethodName: OpenLevel
-        m_Mode: 3
+        m_Mode: 5
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 2
           m_FloatArgument: 0
-          m_StringArgument: 
+          m_StringArgument: 1-2
           m_BoolArgument: 0
         m_CallState: 2
 --- !u!114 &1273289939

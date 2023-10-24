@@ -110,7 +110,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Tile_OverSized_0
+      name: oversized panel
       rect:
         serializedVersion: 2
         x: 40
@@ -118,7 +118,7 @@ TextureImporter:
         width: 460
         height: 321
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -131,7 +131,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Tile_OverSized_1
+      name: oversized tall panel
       rect:
         serializedVersion: 2
         x: 523
@@ -139,7 +139,7 @@ TextureImporter:
         width: 200
         height: 318
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -152,7 +152,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Tile_OverSized_2
+      name: oversized fan
       rect:
         serializedVersion: 2
         x: 772
@@ -160,7 +160,7 @@ TextureImporter:
         width: 100
         height: 100
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -173,7 +173,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Tile_OverSized_3
+      name: oversized fan w rail
       rect:
         serializedVersion: 2
         x: 908
@@ -181,7 +181,7 @@ TextureImporter:
         width: 100
         height: 100
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -194,7 +194,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Tile_OverSized_4
+      name: oversized grill
       rect:
         serializedVersion: 2
         x: 775
@@ -202,7 +202,7 @@ TextureImporter:
         width: 100
         height: 100
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -215,7 +215,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Tile_OverSized_5
+      name: oversized circular vent
       rect:
         serializedVersion: 2
         x: 889
@@ -223,7 +223,7 @@ TextureImporter:
         width: 100
         height: 100
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -236,7 +236,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Tile_OverSized_6
+      name: oversized warn label small
       rect:
         serializedVersion: 2
         x: 786
@@ -244,7 +244,7 @@ TextureImporter:
         width: 98
         height: 12
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -257,7 +257,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Tile_OverSized_7
+      name: oversized warn label thick
       rect:
         serializedVersion: 2
         x: 902
@@ -265,7 +265,7 @@ TextureImporter:
         width: 98
         height: 22
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -278,7 +278,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Tile_OverSized_8
+      name: oversized warn label sq
       rect:
         serializedVersion: 2
         x: 784
@@ -286,7 +286,7 @@ TextureImporter:
         width: 50
         height: 50
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -309,15 +309,15 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Tile_OverSized_0: 1381186977
-      Tile_OverSized_1: -1178932536
-      Tile_OverSized_2: 847873166
-      Tile_OverSized_3: -1689246139
-      Tile_OverSized_4: 1731518314
-      Tile_OverSized_5: -1924552597
-      Tile_OverSized_6: -547278645
-      Tile_OverSized_7: -575829566
-      Tile_OverSized_8: 1610127633
+      oversized circular vent: -1924552597
+      oversized fan: 847873166
+      oversized fan w rail: -1689246139
+      oversized grill: 1731518314
+      oversized panel: 1381186977
+      oversized tall panel: -1178932536
+      oversized warn label small: -547278645
+      oversized warn label sq: 1610127633
+      oversized warn label thick: -575829566
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

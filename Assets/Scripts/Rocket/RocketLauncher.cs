@@ -6,11 +6,19 @@ public class RocketLauncher : MonoBehaviour
 {
     public Transform launcherTransform;
     public GameObject bulletPrefab;
+    public AudioClip rocketLaunchSFX;
     public float bulletSpeed = 10f;
     public float fireRate = 0.2f;
     public float nextFireTime = 0f;
 
+    private AudioSource playerAudioSource;
     private float resetInterval = 300f; // Reset the timer every 5 minutes, to avoid gradual floating point precision loss
+
+    private void Awake()
+    {
+        playerAudioSource = GetComponent<AudioSource>();
+        playerAudioSource.clip = rocketLaunchSFX;
+    }
 
     void Update()
     {
@@ -55,6 +63,9 @@ public class RocketLauncher : MonoBehaviour
 
         // Instantiate the bullet
         GameObject bullet = Instantiate(bulletPrefab, launcherTransform.position, Quaternion.identity);
+
+        // Play SFX
+        playerAudioSource.Play();
 
         // Apply the calculated direction as the initial velocity
         bullet.GetComponent<Rigidbody2D>().velocity = direction * bulletSpeed;
