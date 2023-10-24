@@ -5,9 +5,18 @@ using UnityEngine;
 public class RocketObject : MonoBehaviour
 {
     public GameObject explosionPrefab;    // Reference to the explosion prefab
+    public AudioClip rocketBlastSFX;
     public float explosionForce = 10f;    // Force of the explosion
     public float explosionRadius = 2f;    // Radius of the explosion
     public float explosionDuration = 1f;
+
+    private AudioSource rocketSource;
+
+    private void Awake()
+    {
+        rocketSource = GetComponent<AudioSource>();
+        rocketSource.clip = rocketBlastSFX;
+    }
 
     private void OnTriggerEnter2D(Collider2D collision)
     {
@@ -28,6 +37,7 @@ public class RocketObject : MonoBehaviour
     private void CreateExplosion(Vector2 position)
     {
         GameObject explosion = Instantiate(explosionPrefab, position, Quaternion.identity);
+        rocketSource.Play();
         Destroy(explosion, explosionDuration); // Destroy the explosion after 1 second (adjust as needed)
     }
 

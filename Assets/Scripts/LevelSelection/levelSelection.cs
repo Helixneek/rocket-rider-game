@@ -23,9 +23,8 @@ public class LevelSelection : MonoBehaviour
         }
     }
 
-    public void OpenLevel(int levelId)
+    public void OpenLevel(string levelName)
     {
-        string levelName = "Map " + levelId;
         SceneManager.LoadScene(levelName);
     }
 
