@@ -83,6 +83,11 @@ public class PlayerMovement : MonoBehaviour
     {
         isMovementEnabled = true;
     }
+    
+    public void FreezePosition()
+    {
+        rb.velocity = Vector2.zero;
+    }
 }
 
  
