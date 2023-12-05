@@ -1,21 +1,26 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using Cinemachine;
 
 public class RocketObject : MonoBehaviour
 {
+    [Header("Explosion")]
     public GameObject explosionPrefab;    // Reference to the explosion prefab
     public AudioClip rocketBlastSFX;
     public float explosionForce = 10f;    // Force of the explosion
     public float explosionRadius = 2f;    // Radius of the explosion
     public float explosionDuration = 1f;
 
+    private CinemachineImpulseSource impulseSource;
     private AudioSource rocketSource;
 
     private void Awake()
     {
         rocketSource = GetComponent<AudioSource>();
         rocketSource.clip = rocketBlastSFX;
+
+        impulseSource = GetComponent<CinemachineImpulseSource>();
     }
 
     private void OnTriggerEnter2D(Collider2D collision)
@@ -29,6 +34,9 @@ public class RocketObject : MonoBehaviour
 
             // Apply force to surrounding rigidbodies
             PushObjectsInRadius(transform.position);
+
+            // Shake camera
+            CameraShakeManager.instance.CameraShake(impulseSource);
 
             // Destroy the bullet when it collides with a wall
             Destroy(gameObject);

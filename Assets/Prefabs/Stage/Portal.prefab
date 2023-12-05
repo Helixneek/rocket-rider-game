@@ -13,6 +13,7 @@ GameObject:
   - component: {fileID: 6987951470821976878}
   - component: {fileID: 6678055260066265444}
   - component: {fileID: 4602772171904074350}
+  - component: {fileID: 128663638148632361}
   m_Layer: 0
   m_Name: Portal
   m_TagString: Untagged
@@ -158,6 +159,18 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 0.7501494, y: 1.6897793}
   m_EdgeRadius: 0
+--- !u!114 &128663638148632361
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2781168518042870055}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9f644f5c27bc3b24881374b5b6769e84, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &6143591269886566112
 GameObject:
   m_ObjectHideFlags: 0
@@ -309,8 +322,8 @@ MonoBehaviour:
   m_ShadowVolumeIntensityEnabled: 0
   m_ShadowVolumeIntensity: 0.75
   m_LocalBounds:
-    m_Center: {x: -0.00025004148, y: -0.0032500029, z: 0}
-    m_Extent: {x: 1.83325, y: 1.83805, z: 0}
+    m_Center: {x: 0.0050500035, y: 0.003700018, z: 0}
+    m_Extent: {x: 1.8385501, y: 1.8348, z: 0}
   m_PointLightInnerAngle: 360
   m_PointLightOuterAngle: 360
   m_PointLightInnerRadius: 0

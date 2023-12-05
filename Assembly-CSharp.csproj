@@ -66,7 +66,6 @@
     <Compile Include="Assets\LeanTween\Framework\LeanTest.cs" />
     <Compile Include="Assets\Scripts\Level Load\FadeInOut.cs" />
     <Compile Include="Assets\LeanTween\Testing\TestingDescr.cs" />
-    <Compile Include="Assets\Scripts\UI\CustomCursor.cs" />
     <Compile Include="Assets\LeanTween\Examples\Scripts\GeneralBasics2d.cs" />
     <Compile Include="Assets\LeanTween\Examples\Scripts\PathSplineTrack.cs" />
     <Compile Include="Assets\LeanTween\Examples\Scripts\PathSpline.cs" />
@@ -88,7 +87,6 @@
     <Compile Include="Assets\Scripts\Main Menu\MainMenuBGAnimation.cs" />
     <Compile Include="Assets\LeanTween\Framework\LeanTweenExt.cs" />
     <Compile Include="Assets\Scripts\forCheckpoint\sceneController.cs" />
-    <Compile Include="Assets\Scripts\Player\PlayerIdleAnimation.cs" />
     <Compile Include="Assets\LeanTween\Framework\LeanAudio.cs" />
     <Compile Include="Assets\LeanTween\Framework\LTDescrOptional.cs" />
     <Compile Include="Assets\Scripts\forCheckpoint\checkPointsSet.cs" />
@@ -96,8 +94,11 @@
     <Compile Include="Assets\Scripts\forCheckpoint\sceneCheckpoint.cs" />
     <Compile Include="Assets\LeanTween\Testing\FollowingTests.cs" />
     <Compile Include="Assets\LeanTween\Testing\TestingOptionalCancel.cs" />
+    <Compile Include="Assets\Scripts\Player\PlayerAnimationHandler.cs" />
     <Compile Include="Assets\LeanTween\Examples\Scripts\TestingUnitTests.cs" />
     <Compile Include="Assets\LeanTween\Framework\LTDescr.cs" />
+    <Compile Include="Assets\Scripts\Managers\CustomCursor.cs" />
+    <Compile Include="Assets\Scripts\Managers\BGMManager.cs" />
     <Compile Include="Assets\LeanTween\Testing\TestingIssue2.cs" />
     <Compile Include="Assets\LeanTween\Testing\Testing248.cs" />
     <Compile Include="Assets\LeanTween\Testing\TestingColorTweening.cs" />
@@ -115,10 +116,12 @@
     <Compile Include="Assets\LeanTween\Testing\Scripts\LeanPool.cs" />
     <Compile Include="Assets\Scripts\Player\playerRespawn.cs" />
     <Compile Include="Assets\LeanTween\Testing\PerformanceTests.cs" />
-    <Compile Include="Assets\Scripts\UI\BGMManager.cs" />
+    <Compile Include="Assets\Scripts\Environment\EvaIdle.cs" />
     <Compile Include="Assets\Scripts\Rocket\RocketLauncher.cs" />
     <Compile Include="Assets\LeanTween\Testing\Testing246.cs" />
     <Compile Include="Assets\LeanTween\Examples\Scripts\TestingZLegacyExt.cs" />
+    <Compile Include="Assets\Scripts\UI\StageFinishScore.cs" />
+    <Compile Include="Assets\Scripts\Managers\CameraShakeManager.cs" />
     <Compile Include="Assets\Scripts\Level Load\FadeforScene2.cs" />
     <Compile Include="Assets\LeanTween\Examples\Scripts\PathSpline2d.cs" />
     <Compile Include="Assets\LeanTween\Framework\LTSeq.cs" />

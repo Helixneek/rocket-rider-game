@@ -7,16 +7,16 @@ using UnityEngine.UIElements;
 
 public class changeScene : MonoBehaviour
 {
-    private void OnTriggerEnter2D(Collider2D collision)
-    {
-        if (collision.CompareTag("Player"))
-        {
-            UnlockNewLevel();
-            sceneController.instance.NextLevel();
-        }
-    }
+    //private void OnTriggerEnter2D(Collider2D collision)
+    //{
+    //    if (collision.CompareTag("Player"))
+    //    {
+    //        UnlockNewLevel();
+    //        sceneController.instance.NextLevel();
+    //    }
+    //}
 
-    void UnlockNewLevel()
+    public void UnlockNewLevel()
     {
         if (SceneManager.GetActiveScene().buildIndex >= PlayerPrefs.GetInt("ReachedIndex"))
         {

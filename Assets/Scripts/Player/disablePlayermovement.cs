@@ -12,10 +12,13 @@ public class PortalScript : MonoBehaviour
         if (collision.CompareTag("Player"))
         {
             PlayerMovement playerMovement = collision.GetComponent<PlayerMovement>();
+            RocketLauncher rocketLauncher = collision.GetComponent<RocketLauncher>();
 
             if (playerMovement != null)
             {
-                playerMovement.DisableMovementForDuration(disableDuration);
+                playerMovement.enabled = false;
+                playerMovement.FreezePosition();
+                rocketLauncher.enabled = false;
             }
         }
     }
