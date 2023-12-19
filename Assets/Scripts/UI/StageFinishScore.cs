@@ -2,12 +2,19 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using TMPro;
+using UnityEngine.SceneManagement;
+using UnityEngine.UI;
 
 public class StageFinishScore : MonoBehaviour
 {
+    [Header("Score Panel")]
     [SerializeField] private StageTimer timer;
     [SerializeField] private GameObject scorePanel;
     [SerializeField] private TextMeshProUGUI scoreText;
+    [SerializeField] private string nextLevelName;
+
+    private CanvasGroup scoreCG;
+
     private changeScene sceneChange;
 
     private float finalTime = 0f;
@@ -15,7 +22,11 @@ public class StageFinishScore : MonoBehaviour
     private void Start()
     {
         sceneChange = GetComponent<changeScene>();
-    }
+        scoreCG = scorePanel.GetComponent<CanvasGroup>();
+        scoreCG.LeanAlpha(0, 0.01f);
+        scorePanel.SetActive(false);
+    
+     }
 
     private void OnTriggerEnter2D(Collider2D collision)
     {
@@ -33,7 +44,8 @@ public class StageFinishScore : MonoBehaviour
     private void ShowFinalScore()
     {
         scorePanel.SetActive(true);
-        scoreText.text = "You finished the level!\nTime: " + finalTime.ToString("F2");
+        scoreCG.LeanAlpha(1, 0.2f);
+        scoreText.text = "YOU FINISHED THE LEVEL!\nTIME: " + finalTime.ToString("F2");
     }
 
     public void GoToNextLevel()
@@ -42,6 +54,6 @@ public class StageFinishScore : MonoBehaviour
         sceneChange.UnlockNewLevel();
 
         // Go to the next level
-        sceneController.instance.NextLevel();
+        sceneController.instance.NextLevel(nextLevelName);
     }
 }

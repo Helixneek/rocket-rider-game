@@ -164,7 +164,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   explosionPrefab: {fileID: 1617865449788414965, guid: 287acd321f77cb940817e8592b7df98f, type: 3}
-  rocketBlastSFX: {fileID: 0}
+  rocketBlastSFX: {fileID: 8300000, guid: 85df89c13953bfe4cb8882a888f47e2d, type: 3}
   explosionForce: 30
   explosionRadius: 7
   explosionDuration: 3
@@ -180,7 +180,7 @@ AudioSource:
   OutputAudioMixerGroup: {fileID: 0}
   m_audioClip: {fileID: 0}
   m_PlayOnAwake: 0
-  m_Volume: 1
+  m_Volume: 0.5
   m_Pitch: 1
   Loop: 0
   Mute: 0
