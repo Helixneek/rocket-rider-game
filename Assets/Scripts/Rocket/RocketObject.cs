@@ -14,6 +14,8 @@ public class RocketObject : MonoBehaviour
 
     private CinemachineImpulseSource impulseSource;
     private AudioSource rocketSource;
+    private SpriteRenderer rocketRenderer;
+    private CircleCollider2D circleCollider;
 
     private void Awake()
     {
@@ -21,6 +23,9 @@ public class RocketObject : MonoBehaviour
         rocketSource.clip = rocketBlastSFX;
 
         impulseSource = GetComponent<CinemachineImpulseSource>();
+
+        rocketRenderer = GetComponent<SpriteRenderer>();
+        circleCollider = GetComponent<CircleCollider2D>();
     }
 
     private void OnTriggerEnter2D(Collider2D collision)
@@ -38,14 +43,18 @@ public class RocketObject : MonoBehaviour
             // Shake camera
             CameraShakeManager.instance.CameraShake(impulseSource);
 
+            // Hide bullet first before making sound
+            rocketRenderer.enabled = false;
+            circleCollider.enabled = false;
+
             // Destroy the bullet when it collides with a wall
-            Destroy(gameObject);
+            StartCoroutine(MakeSoundThenDie());
         }
     }
     private void CreateExplosion(Vector2 position)
     {
         GameObject explosion = Instantiate(explosionPrefab, position, Quaternion.identity);
-        rocketSource.Play();
+        //rocketSource.Play();
         Destroy(explosion, explosionDuration); // Destroy the explosion after 1 second (adjust as needed)
     }
 
@@ -66,5 +75,15 @@ public class RocketObject : MonoBehaviour
                 rb.AddForce(direction * explosionForce, ForceMode2D.Impulse);
             }
         }
+    }
+
+    private IEnumerator MakeSoundThenDie()
+    {
+        float clipLength = rocketBlastSFX.length;
+        rocketSource.Play();
+
+        yield return new WaitForSeconds(clipLength);
+
+        Destroy(gameObject);
     }
 }
