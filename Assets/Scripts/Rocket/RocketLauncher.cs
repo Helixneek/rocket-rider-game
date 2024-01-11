@@ -13,6 +13,7 @@ public class RocketLauncher : MonoBehaviour
 
     private AudioSource playerAudioSource;
     private float resetInterval = 300f; // Reset the timer every 5 minutes, to avoid gradual floating point precision loss
+    private float angle;
 
     private void Awake()
     {
@@ -44,7 +45,7 @@ public class RocketLauncher : MonoBehaviour
     {
         Vector3 mousePosition = Camera.main.ScreenToWorldPoint(Input.mousePosition);
 
-        float angle = Mathf.Atan2(
+        angle = Mathf.Atan2(
             mousePosition.y - launcherTransform.position.y,
             mousePosition.x - launcherTransform.position.x
         ) * Mathf.Rad2Deg;
@@ -62,7 +63,7 @@ public class RocketLauncher : MonoBehaviour
         direction.Normalize();
 
         // Instantiate the bullet
-        GameObject bullet = Instantiate(bulletPrefab, launcherTransform.position, Quaternion.identity);
+        GameObject bullet = Instantiate(bulletPrefab, launcherTransform.position, Quaternion.Euler(new Vector3(0, 0, angle)));
 
         // Play SFX
         playerAudioSource.Play();

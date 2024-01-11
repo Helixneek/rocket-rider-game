@@ -5,7 +5,7 @@ using UnityEngine;
 public class BGMManager : MonoBehaviour
 {
     public static BGMManager instance;
-    public AudioSource audioSource;
+    private AudioSource audioSource;
 
     private void Awake()
     {
@@ -18,6 +18,11 @@ public class BGMManager : MonoBehaviour
         {
             Destroy(gameObject);
         }
+    }
+
+    private void Start()
+    {
+        audioSource = GetComponent<AudioSource>();
     }
 
     public void PlayMusic(AudioClip music)
