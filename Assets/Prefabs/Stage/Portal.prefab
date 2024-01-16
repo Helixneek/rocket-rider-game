@@ -146,7 +146,7 @@ BoxCollider2D:
   m_IsTrigger: 1
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: 0.000000029802322, y: -0.12511042}
+  m_Offset: {x: 0.000000014901161, y: -0.21615493}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
@@ -157,7 +157,7 @@ BoxCollider2D:
     adaptiveTiling: 0
   m_AutoTiling: 0
   serializedVersion: 2
-  m_Size: {x: 0.7501494, y: 1.6897793}
+  m_Size: {x: 0.22986355, y: 1.5076902}
   m_EdgeRadius: 0
 --- !u!114 &128663638148632361
 MonoBehaviour:
@@ -171,6 +171,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9f644f5c27bc3b24881374b5b6769e84, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  timer: {fileID: 0}
+  scorePanel: {fileID: 0}
+  scoreText: {fileID: 0}
 --- !u!1 &6143591269886566112
 GameObject:
   m_ObjectHideFlags: 0
@@ -322,8 +325,8 @@ MonoBehaviour:
   m_ShadowVolumeIntensityEnabled: 0
   m_ShadowVolumeIntensity: 0.75
   m_LocalBounds:
-    m_Center: {x: 0.0050500035, y: 0.003700018, z: 0}
-    m_Extent: {x: 1.8385501, y: 1.8348, z: 0}
+    m_Center: {x: -0.004799962, y: 0.000049948692, z: 0}
+    m_Extent: {x: 1.834, y: 1.83445, z: 0}
   m_PointLightInnerAngle: 360
   m_PointLightOuterAngle: 360
   m_PointLightInnerRadius: 0

@@ -75,5 +75,6 @@ public class RocketLauncher : MonoBehaviour
 
         // Update the next allowed shot time
         nextFireTime = Time.time + fireRate;
+
     }
 }
